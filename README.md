@@ -29,9 +29,13 @@ Programming Languages: python-3.7.1-amd64
 
 # Libraries/Tools Used:
 PyAudio-0.2.11.win-amd64-py3.7
+
 pyttsx3 (Text-to-Speech)
+
 speech_recognition
+
 smtplib
+
 pygame
 wikipedia
 datetime, os, and webbrowser
